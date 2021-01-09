@@ -1,0 +1,43 @@
+body {
+  background: url(back1.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.myclass {
+  padding: 5px;
+  width: 50%;
+  margin: auto;
+
+  border-collapse: collapse;
+  text-align: center;
+  table-layout: fixed;
+  background: #d1e7d1;
+  opacity: 0.5;
+  color: Black;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+ul {
+  list-style-type: none;
+  float: center;
+  align-items: center;
+  display: block;
+}
+.footer {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 10px;
+  display: flex;
+}
+.centerclass {
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+}
+h4 {
+  font-family: Cursive;
+}
