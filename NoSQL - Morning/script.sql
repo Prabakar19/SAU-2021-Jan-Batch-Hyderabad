@@ -11,7 +11,6 @@ SELECT *
 FROM `travel-sample` r
     JOIN `travel-sample` a ON r.airlineid = META(a).id
 WHERE r.sourceairport = "SFO"
-LIMIT 100
 
 -- LEFT JOIN:
 SELECT *
@@ -19,7 +18,7 @@ FROM `travel-sample` r
 LEFT JOIN `travel-sample` a
 ON r.airlineid = META(a).id
 WHERE r.sourceairport = "SFO" 
-LIMIT 100
+
 
 -- RIGHT JOIN:
 SELECT *
@@ -27,7 +26,7 @@ FROM `travel-sample` r
 RIGHT JOIN `travel-sample` a
 ON r.airlineid = META(a).id
 WHERE r.sourceairport = "SFO" 
-LIMIT 100
+
 
 -- 4
 -- map
