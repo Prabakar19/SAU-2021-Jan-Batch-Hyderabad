@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Button Alert</title>
+  </head>
+  <body>
+    <table align="center">
+      <tr>
+        <td>Value1 :</td>
+        <td><input id="input1" type="text" /></td>
+      </tr>
+      <tr>
+        <td>Value2 :</td>
+        <td><input id="input2" type="text" /></td>
+      </tr>
+      <tr>
+        <td>Result :</td>
+        <td><input id="output" type="text" /></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button onclick="buttonAlert()">Add</button></td>
+      </tr>
+    </table>
+
+    <script>
+      function buttonAlert() {
+        let input1 = document.getElementById("input1").value;
+        let input2 = document.getElementById("input2").value;
+        document.getElementById("output").value =
+          parseFloat(input1) + parseFloat(input2);
+      }
+    </script>
+  </body>
+</html>
