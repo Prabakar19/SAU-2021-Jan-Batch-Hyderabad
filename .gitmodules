@@ -1,3 +1,6 @@
 [submodule "Angular 1&2 - Morning & Afternoon/first-angular-app"]
 	path = Angular 1&2 - Morning & Afternoon/first-angular-app
 	url = https://github.com/Prabakar19/first-angular-app
+[submodule "React Native 1&2 - Morning & Afternoon/MoviesApp"]
+	path = React Native 1&2 - Morning & Afternoon/MoviesApp
+	url = https://github.com/Prabakar19/MoviesApp
