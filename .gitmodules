@@ -7,3 +7,6 @@
 [submodule "React Session 1&2 - Morning & Afternoon/sample-app"]
 	path = React Session 1&2 - Morning & Afternoon/sample-app
 	url = https://github.com/Prabakar19/sample-app
+[submodule "Java Fundamentals - Morning/AU-Assignment-Basic-Java"]
+	path = Java Fundamentals - Morning/AU-Assignment-Basic-Java
+	url = https://github.com/Prabakar19/AU-Assignment-Basic-Java
