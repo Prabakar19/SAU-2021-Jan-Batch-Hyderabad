@@ -10,3 +10,6 @@
 [submodule "Java Fundamentals - Morning/AU-Assignment-Basic-Java"]
 	path = Java Fundamentals - Morning/AU-Assignment-Basic-Java
 	url = https://github.com/Prabakar19/AU-Assignment-Basic-Java
+[submodule "Advance Java - Afternoon/AU_Advance_Java"]
+	path = Advance Java - Afternoon/AU_Advance_Java
+	url = https://github.com/Prabakar19/AU_Advance_Java
