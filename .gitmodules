@@ -16,3 +16,6 @@
 [submodule "Maven - Afternoon/demoWebApplication"]
 	path = Maven - Afternoon/demoWebApplication
 	url = https://github.com/Prabakar19/demoWebApplication
+[submodule "Hibernate 1 & 2 - Morning & Afternoon/AU_Hibernate_Session"]
+	path = Hibernate 1 & 2 - Morning & Afternoon/AU_Hibernate_Session
+	url = https://github.com/Prabakar19/AU_Hibernate_Session
