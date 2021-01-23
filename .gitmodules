@@ -22,3 +22,6 @@
 [submodule "Rest Services - Afternoon/AU_Spring-Rest-API"]
 	path = Rest Services - Afternoon/AU_Spring-Rest-API
 	url = https://github.com/Prabakar19/AU_Spring-Rest-API
+[submodule "Spring MVC - Afternoon/AU-Spring-Boot--Demo"]
+	path = Spring MVC - Afternoon/AU-Spring-Boot--Demo
+	url = https://github.com/Prabakar19/AU-Spring-Boot--Demo
