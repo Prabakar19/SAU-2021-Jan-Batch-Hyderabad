@@ -25,3 +25,6 @@
 [submodule "Spring MVC - Afternoon/AU-Spring-Boot--Demo"]
 	path = Spring MVC - Afternoon/AU-Spring-Boot--Demo
 	url = https://github.com/Prabakar19/AU-Spring-Boot--Demo
+[submodule "Java Multithreading Concepts - Morning/AU_Multithreading_File"]
+	path = Java Multithreading Concepts - Morning/AU_Multithreading_File
+	url = https://github.com/Prabakar19/AU_Multithreading_File
