@@ -28,3 +28,6 @@
 [submodule "Java Multithreading Concepts - Morning/AU_Multithreading_File"]
 	path = Java Multithreading Concepts - Morning/AU_Multithreading_File
 	url = https://github.com/Prabakar19/AU_Multithreading_File
+[submodule "Kafka Introduction - Morning/AU-Kafka-Assignment"]
+	path = Kafka Introduction - Morning/AU-Kafka-Assignment
+	url = https://github.com/Prabakar19/AU-Kafka-Assignment
