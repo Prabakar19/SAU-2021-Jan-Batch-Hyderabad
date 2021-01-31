@@ -31,3 +31,6 @@
 [submodule "Kafka Introduction - Morning/AU-Kafka-Assignment"]
 	path = Kafka Introduction - Morning/AU-Kafka-Assignment
 	url = https://github.com/Prabakar19/AU-Kafka-Assignment
+[submodule "Junit, Mockito, Logger - Afternoon/AU-Spring-Boot--Demo"]
+	path = Junit, Mockito, Logger - Afternoon/AU-Spring-Boot--Demo
+	url = https://github.com/Prabakar19/AU-Spring-Boot--Demo
